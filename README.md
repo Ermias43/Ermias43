@@ -9,7 +9,7 @@
 🤔 I’m seeking help with **optimizing Django apps and backend performance**  
 💬 Ask me about **Django, Python, React, REST APIs, PostgreSQL, and AWS**  
 📫 How to reach me:  
-&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: your.email@example.com  
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: ermiasmaz4303@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn Profile](https://www.linkedin.com/in/ermias-mazengia-0a22bb1b2)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I built a fully functional booking platform from scratch in 3 weeks!
