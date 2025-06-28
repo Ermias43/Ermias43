@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Ermias Mazengia
 
-<!--
-**Ermias43/Ermias43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate full-stack developer who solves real-world problems using Django, React, and AWS.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- 💻 Languages: Python, JavaScript, C++
+- 🌐 Frontend: React, Tailwind CSS, HTML, CSS
+- 🛠 Backend: Django, REST API, PostgreSQL
+- ☁️ Cloud: AWS (EC2, S3, CloudFront)
+- 🧪 Testing: Pytest, Postman
+### 👋 Hi there! I'm Ermias Mazengia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on a **web-based tour and travel agency platform** using Django and React  
+🌱 I’m currently learning **AWS cloud architecture**, **Docker**, and **CI/CD pipelines**  
+👯 I’m looking to collaborate on **open-source full-stack or cloud-native projects**  
+🤔 I’m looking for help with **optimizing backend performance and scalable deployment strategies**  
+💬 Ask me about **Django, Python, React, REST APIs, PostgreSQL, and AWS**  
+📫 How to reach me:  
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: your.email@example.com  
+&nbsp;&nbsp;&nbsp;&nbsp;💼 LinkedIn: [Ermias Mazengia](https://www.linkedin.com/in/ermias-mazengia-0a22bb1b2)  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I built a full booking platform from scratch — from database to deployment!
+
 -->
